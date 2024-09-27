@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = SignalRChat.Server
+build_property.ProjectDir = /Users/alejandroramirezreyesbroxel/Downloads/chat-signalr/src/SignalRChat.Server/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

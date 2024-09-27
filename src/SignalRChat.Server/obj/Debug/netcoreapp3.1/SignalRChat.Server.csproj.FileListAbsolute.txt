@@ -1,0 +1,13 @@
+/Users/alejandroramirezreyesbroxel/Downloads/chat-signalr/src/SignalRChat.Server/bin/Debug/netcoreapp3.1/SignalRChat.Server
+/Users/alejandroramirezreyesbroxel/Downloads/chat-signalr/src/SignalRChat.Server/bin/Debug/netcoreapp3.1/SignalRChat.Server.deps.json
+/Users/alejandroramirezreyesbroxel/Downloads/chat-signalr/src/SignalRChat.Server/bin/Debug/netcoreapp3.1/SignalRChat.Server.runtimeconfig.json
+/Users/alejandroramirezreyesbroxel/Downloads/chat-signalr/src/SignalRChat.Server/bin/Debug/netcoreapp3.1/SignalRChat.Server.runtimeconfig.dev.json
+/Users/alejandroramirezreyesbroxel/Downloads/chat-signalr/src/SignalRChat.Server/bin/Debug/netcoreapp3.1/SignalRChat.Server.dll
+/Users/alejandroramirezreyesbroxel/Downloads/chat-signalr/src/SignalRChat.Server/bin/Debug/netcoreapp3.1/SignalRChat.Server.pdb
+/Users/alejandroramirezreyesbroxel/Downloads/chat-signalr/src/SignalRChat.Server/obj/Debug/netcoreapp3.1/SignalRChat.Server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alejandroramirezreyesbroxel/Downloads/chat-signalr/src/SignalRChat.Server/obj/Debug/netcoreapp3.1/SignalRChat.Server.AssemblyInfoInputs.cache
+/Users/alejandroramirezreyesbroxel/Downloads/chat-signalr/src/SignalRChat.Server/obj/Debug/netcoreapp3.1/SignalRChat.Server.AssemblyInfo.cs
+/Users/alejandroramirezreyesbroxel/Downloads/chat-signalr/src/SignalRChat.Server/obj/Debug/netcoreapp3.1/SignalRChat.Server.csproj.CoreCompileInputs.cache
+/Users/alejandroramirezreyesbroxel/Downloads/chat-signalr/src/SignalRChat.Server/obj/Debug/netcoreapp3.1/SignalRChat.Server.dll
+/Users/alejandroramirezreyesbroxel/Downloads/chat-signalr/src/SignalRChat.Server/obj/Debug/netcoreapp3.1/SignalRChat.Server.pdb
+/Users/alejandroramirezreyesbroxel/Downloads/chat-signalr/src/SignalRChat.Server/obj/Debug/netcoreapp3.1/SignalRChat.Server.genruntimeconfig.cache
